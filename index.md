@@ -3,7 +3,7 @@
 
 ## Biography
 ---
-I am a PhD student of [PRISDL](https://ucassdl.cn/) in the School of Electronic, Electrical and Communication Engineering, [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/), advised by Prof. [Qixiang Ye](http://people.ucas.ac.cn/~0007279?language=en). I got a B.E. degree in Electronic Information School at Wuhan University, Wuhan in June 2018.
+I am a PhD candidate of [PRISDL](https://ucassdl.cn/) in the School of Electronic, Electrical and Communication Engineering, [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/), advised by Prof. [Qixiang Ye](http://people.ucas.ac.cn/~0007279?language=en). I got a B.E. degree in Electronic Information School at Wuhan University, Wuhan in June 2018.
 
 My research interests include computer vision and machine learning, specifically for few-shot learning and semantic segmentation.
 
@@ -17,7 +17,10 @@ IEEE Transactions on Image Processing </td>
 </tr>
 </table>
 
-
+## Awards
+First prize of National Undergraduate Electronics Design Contest 2017  
+Second prize of “TI Cup” Electronic Design Competition 2016  
+Excellent students of Wuhan University 2015-2016  
 
 
 
