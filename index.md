@@ -11,8 +11,8 @@ My research interests include computer vision and machine learning, specifically
 ---
 <table border="1">
 <tr>
-<td>Binghao Liu, Jianbin jiao, and Qixiang Ye, 
-<b>"Harmonic Feature Activation for Few-shot Semantic Segmentation"</b>, 
+<td>Binghao Liu, Jianbin jiao, and Qixiang Ye,   
+<b>"Harmonic Feature Activation for Few-shot Semantic Segmentation"</b>,   
 IEEE Transactions on Image Processing </td>
 </tr>
 </table>
