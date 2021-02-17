@@ -14,7 +14,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Binghao Liu
-  tagline: PhD Student
+  tagline: PhD Candidate
   school: University of Chinese Academy of Sciences 
   mail: liubinghao18@mails.ucas.ac.cn
   date_format: "%b %-d, %Y"
