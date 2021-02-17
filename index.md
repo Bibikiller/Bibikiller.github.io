@@ -20,7 +20,7 @@ IEEE Transactions on Image Processing </td>
 ## Awards
 First prize of National Undergraduate Electronics Design Contest 2017  
 Second prize of “TI Cup” Electronic Design Competition 2016  
-Excellent graduation project of Wuhan University 2018
+Excellent graduation project of Wuhan University 2018  
 Excellent students of Wuhan University 2015-2016  
 
 
