@@ -3,9 +3,9 @@
 
 ## Biography
 ---
-I am a PhD candidate of [PRISDL](https://ucassdl.cn/) in the School of Electronic, Electrical and Communication Engineering, [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/), advised by Prof. [Qixiang Ye](http://people.ucas.ac.cn/~0007279?language=en). I got a B.E. degree in Electronic Information School at Wuhan University, Wuhan in June 2018. During my master period，I studied in UCAS and was advised by Prof. Jianbin Jiao and Prof. Qixiang Ye.
+I am a PhD candidate of [PRISDL](https://ucassdl.cn/) in the School of Electronic, Electrical and Communication Engineering, [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/), advised by Prof. [Qixiang Ye](http://people.ucas.ac.cn/~0007279?language=en). I got a B.E. degree in Electronic Information School at Wuhan University, Wuhan in June 2018. During my master period, I studied in UCAS and was advised by Prof. Jianbin Jiao and Prof. Qixiang Ye.
 
-My research interests include computer vision and machine learning, specifically for few-shot learning and semantic segmentation.
+My research interests include computer vision and machine learning, specifically few-shot learning and semantic segmentation.
 
 ## Publications
 ---
