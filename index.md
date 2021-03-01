@@ -21,7 +21,7 @@ IEEE Transactions on Image Processing. <a href="https://ieeexplore.ieee.org/docu
 
 <table border="1">
 <tr>
-<td><img src="/ASR.png"  height="150" width="425"></td>
+<td><img src="/ASR.png"  height="150" width="420"></td>
 <td>Binghao Liu, Yao Ding, Jianbin Jiao, Xiangyang Ji and Qixiang Ye,   
 <b>"Anti-aliasing Semantic Reconstruction for Few-Shot Semantic Segmentation"</b>,   
 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
