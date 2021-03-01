@@ -11,20 +11,20 @@ My research interests include computer vision and machine learning, specifically
 ---
 <table border="1">
 <tr>
-<td><img src="/HFA.png"  height="150" width="300"></td>
-<td>Binghao Liu, Jianbin jiao, and Qixiang Ye,   
-<b>"Harmonic Feature Activation for Few-shot Semantic Segmentation"</b>,   
-IEEE Transactions on Image Processing. <a href="https://ieeexplore.ieee.org/document/9356450">[PDF]</a> <a href="https://github.com/Bibikiller/HFA">[CODE]</a>
+<td><img src="/ASR.png"  height="150" width="419"></td>
+<td>Binghao Liu, Yao Ding, Jianbin Jiao, Xiangyang Ji and Qixiang Ye,   
+<b>"Anti-aliasing Semantic Reconstruction for Few-Shot Semantic Segmentation"</b>,   
+2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 </td>
 </tr>
 </table>  
 
 <table border="1">
 <tr>
-<td><img src="/ASR.png"  height="150" width="419"></td>
-<td>Binghao Liu, Yao Ding, Jianbin Jiao, Xiangyang Ji and Qixiang Ye,   
-<b>"Anti-aliasing Semantic Reconstruction for Few-Shot Semantic Segmentation"</b>,   
-2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+<td><img src="/HFA.png"  height="150" width="300"></td>
+<td>Binghao Liu, Jianbin jiao, and Qixiang Ye,   
+<b>"Harmonic Feature Activation for Few-shot Semantic Segmentation"</b>,   
+IEEE Transactions on Image Processing. <a href="https://ieeexplore.ieee.org/document/9356450">[PDF]</a> <a href="https://github.com/Bibikiller/HFA">[CODE]</a>
 </td>
 </tr>
 </table>  
