@@ -17,7 +17,16 @@ My research interests include computer vision and machine learning, specifically
 IEEE Transactions on Image Processing. <a href="https://ieeexplore.ieee.org/document/9356450">[PDF]</a> <a href="https://github.com/Bibikiller/HFA">[CODE]</a>
 </td>
 </tr>
-</table>
+</table>  
+
+<table border="1">
+<tr>
+<td>Binghao Liu, Yao Ding, Jianbin Jiao, Xiangyang Ji and Qixiang Ye,   
+<b>"Anti-aliasing Semantic Reconstruction for Few-Shot Semantic Segmentation"</b>,   
+2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+</td>
+</tr>
+</table>  
 
 ## Awards
 First prize of National Undergraduate Electronics Design Contest 2017  
