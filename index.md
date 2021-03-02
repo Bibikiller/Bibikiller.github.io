@@ -11,7 +11,7 @@ My research interests are computer vision and representation learning. Recently,
 ---
 <table border="1">
 <tr>
-<td><img src="/ASR.png"  height="150" width="416"></td>
+<td><img src="/ASR.png"  height="150" width="415"></td>
 <td>Binghao Liu, Yao Ding, Jianbin Jiao, Xiangyang Ji and Qixiang Ye,   
 <b>"Anti-aliasing Semantic Reconstruction for Few-Shot Semantic Segmentation"</b>,   
 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
